@@ -1,4 +1,4 @@
-# Mr. Ranedeer v2.7 (Current Version)
+## Mr. Ranedeer v2.7 (Current Version)
 
 1. Re-arranged prompt to improve effectiveness
 2. Added "Overall Rules to follow" header
